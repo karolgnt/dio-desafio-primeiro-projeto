@@ -1,5 +1,5 @@
 GIT – um sistema versionamento de código distribuído
-GIT HUB – 
+GIT HUB – repositório remoto online
 Ls – mostra o que tem na pasta
 Cd - localizar
 Dir - abrir
@@ -16,9 +16,10 @@ Sistema distribuído – estrutura atrelada
 Segurança:
 Chave ssh –
 Token – 
-Git add - 
-Git commit m – comentar as suas ações
-Git status – ver o que aconteceu
-Git Push –
 Git Init – inicializar um git
+Git add – adiciona todos ou específico arquivo
+Git commit -m – comentar as suas ações
+Git status – ver o que aconteceu
+Git Push – enviar do local para o remoto
+Git Pull – enviar do remoto para o local
 
