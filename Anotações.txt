@@ -1,0 +1,24 @@
+GIT – um sistema versionamento de código distribuído
+GIT HUB – 
+Ls – mostra o que tem na pasta
+Cd - localizar
+Dir - abrir
+Mkdir – criar arquivo
+Del / rmdir - deletar
+Contrl L – limpar tela
+Cd .. – voltar a pasta
+Sha1 – algoritmo de encriptação (40 dígitos único)
+Objetos fundamentais:
+Blobs – bloco base de composição - blob ‘tamanho do arquivo’\0
+Trees – armazena o blob ou outras trees e o nome do arquivo
+Commits – junta tudo, se alterar o sha1 de uma blob, altera todos (tree e commit)
+Sistema distribuído – estrutura atrelada
+Segurança:
+Chave ssh –
+Token – 
+Git add - 
+Git commit m – comentar as suas ações
+Git status – ver o que aconteceu
+Git Push –
+Git Init – inicializar um git
+
